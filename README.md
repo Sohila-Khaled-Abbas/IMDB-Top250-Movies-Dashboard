@@ -24,10 +24,10 @@ This Power BI project showcases an interactive dashboard that visualizes insight
 ![Welcome Page](images/welcome_page.png)
 
 ### Top 250 Movies Dashboard
-![Top 250 Movies Dashboard](images/top_250_movies_dashboard.png)
+![Top 250 Movies Dashboard](images/top250_dashboard.png)
 
 ### Details Page
-![Details Page](images/details_page.png)
+![Details Page](images/details.png)
 
 ---
 ## Data Source
